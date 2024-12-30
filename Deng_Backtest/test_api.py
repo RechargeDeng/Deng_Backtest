@@ -1,5 +1,5 @@
 import rqdatac as rq
-rq.init('pkulab','PKUlab2021','222.29.71.3:16010')
+rq.init('pkulab','PKUlab2021',‘it's privary’)
 from backtesting import *
 import pandas as pd
 import os
